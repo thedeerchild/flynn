@@ -2,8 +2,8 @@
 
 set -eo pipefail
 
-version="1.8.3"
-shasum="1862f4c3d3907e59b04a757cfda0ea7aa9ef39274af99a784f5be843c80c6772"
+version="1.9"
+shasum="d70eadefce8e160638a9a6db97f7192d8463069ab33138893ad3bf31b0650a79"
 dir="/usr/local"
 
 apt-get update
@@ -55,7 +55,7 @@ goinstall \
 goinstall \
   "github.com/tools/godep" \
   "." \
-  "796a3227145680d8be9aede03e98d9ee9c9c93fc" \
+  "a9cd0561f946ccbdbfdee5b9226659f9919a1ca8" \
   "/bin/godep"
 
 mkdir -p "${GOPATH}/src/github.com/flynn"
