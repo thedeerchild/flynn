@@ -1,4 +1,5 @@
 ![Flynn logo](https://flynn.io/images/flynn-acaf9509.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthedeerchild%2Fflynn.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthedeerchild%2Fflynn?ref=badge_shield)
 
 # Flynn is an open source Platform as a Service
 
@@ -71,3 +72,7 @@ on Freenode), or [emailing](mailto:contact@flynn.io) us.
 
 Flynn® is a [trademark](https://flynn.io/docs/trademark-guidelines) of Prime
 Directive, Inc.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fthedeerchild%2Fflynn.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fthedeerchild%2Fflynn?ref=badge_large)
